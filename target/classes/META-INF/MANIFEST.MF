@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: empresax
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: flavio
+Implementation-Vendor-Id: br.com
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/empresax/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
